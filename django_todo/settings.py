@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-!cr6qms(im7+(_6*ucwwp^o1h*%u-y!$5ve4n3@q^fan#jts-$
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://manello-django-todo-app.herokuapp.com/']
+ALLOWED_HOSTS = ['manello-django-todo-app.herokuapp.com/']
 
 
 # Application definition
